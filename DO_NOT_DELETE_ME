@@ -1,0 +1,2 @@
+This file needs to stay alive or the Circle CI integration stests will fail!
+This file is tested to check for invalid repository directory.
